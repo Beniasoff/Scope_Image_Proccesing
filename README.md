@@ -1,13 +1,9 @@
-here is what ive got 
-
-can you include a descrepetion of the the paramters for each fucntion
-
 
 ---
 
 # Image Processing For Data Extraction From Images
 
-![Alt text](Scope_Image_Proccesing/Proccess.png)
+![Alt text](Proccess.png)
 
 ## Description
 
