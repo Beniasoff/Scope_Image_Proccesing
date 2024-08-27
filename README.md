@@ -52,4 +52,3 @@ For any questions or suggestions, please contact [ben.niasoff@mail.huji.ac.il](m
 
 ---
 
-This README provides an overview of the [`processImage`](command:_github.copilot.openSymbolFromReferences?%5B%22processImage%22%2C%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fbenniasoff%2FVscode%2Fchemlab%2Fsound%2FFucntions.jl%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fbenniasoff%2FVscode%2Fchemlab%2Fsound%2FFucntions.jl%22%2C%22path%22%3A%22%2FUsers%2Fbenniasoff%2FVscode%2Fchemlab%2Fsound%2FFucntions.jl%22%2C%22scheme%22%3A%22file%22%7D%2C%22pos%22%3A%7B%22line%22%3A3%2C%22character%22%3A9%7D%7D%5D%5D "Go to definition") function, its parameters, and how to use it. Adjust the paths and parameters as needed for your specific use case.
