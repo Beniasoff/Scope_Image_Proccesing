@@ -7,6 +7,8 @@ can you include a descrepetion of the the paramters for each fucntion
 
 # Image Processing For Data Extraction From Images
 
+![Alt text](Scope_Image_Proccesing/Proccess.png)
+
 ## Description
 
 This repository contains a Julia notebook and a set of functions for processing images and videos. The notebook demonstrates various image processing techniques, including filtering, segmentation, and transformation. The functions provide utilities for processing images, transforming them using homography, and extracting signals based on the center of mass of image components.
