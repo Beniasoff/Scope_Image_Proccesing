@@ -1,10 +1,11 @@
+here is what ive got 
+
+can you include a descrepetion of the the paramters for each fucntion
+
 
 ---
 
-# Image Processing Functions
-
-This repository contains a Julia function for processing images using various techniques such as grayscale conversion, Gaussian filtering, and graph-based segmentation.
-
+# Image Processing For Data Extraction From Images
 
 ## Description
 
